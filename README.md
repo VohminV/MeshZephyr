@@ -29,17 +29,17 @@ mesh архитектуру - ANSI BBS интерфейс - Криптограф
 
 ## 🌟 Возможности
 
-  Функция           Сервер   Клиент
-  ----------------- -------- --------
-  NetMail           ✅       ✅
-  Message Board     ✅       ✅
-  File Transfer     ✅       ✅
-  Chat              ✅       ✅
-  Store & Forward   ✅       ⚠️
-  Mesh Routing      ✅       ✅
-  ANSI Terminal     ✅       ✅
-  E2E Encryption    ✅       ✅
-  SysOp Panel       ✅       ❌
+| Функция          | Сервер | Клиент |
+|------------------|:------:|:------:|
+| NetMail          |   ✅   |   ✅   |
+| Message Board    |   ✅   |   ✅   |
+| File Transfer    |   ✅   |   ✅   |
+| Chat             |   ✅   |   ✅   |
+| Store & Forward  |   ✅   |   ⚠️   |
+| Mesh Routing     |   ✅   |   ✅   |
+| ANSI Terminal    |   ✅   |   ✅   |
+| E2E Encryption   |   ✅   |   ✅   |
+| SysOp Panel      |   ✅   |   ❌   |
 
 ------------------------------------------------------------------------
 
